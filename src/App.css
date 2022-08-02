@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    background: #669ef3;
+    color: #1d2129;
+  }
+
+.Welcome {
+  width: 100%;
+  max-width: 480px;
+  background-color: blanchedalmond;
+  padding: 15px 30px;
+}
+
